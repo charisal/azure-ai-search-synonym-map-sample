@@ -9,10 +9,6 @@ The code supports:
 * Assigning a synonym map to a specific field
 * Inspecting which fields have synonyms assigned
 
-This project accompanies the blog post:
-👉 **[https://serkanaytekin.com/?p=262](https://serkanaytekin.com/?p=262)**
-**“The Hidden Power of Synonyms in Azure AI Search”**
-
 ---
 
 ## 🚀 Features
@@ -143,7 +139,8 @@ Synonyms take effect immediately at **query time**.
 
 The detailed explanation, architecture background, and step-by-step guide are available in the blog post:
 
-👉 **[https://serkanaytekin.com/?p=262](https://serkanaytekin.com/?p=262)**
+👉 **[serkanaytekin.com](https://serkanaytekin.com/the-hidden-power-of-synonyms-in-azure-ai-search/)**
+**“The Hidden Power of Synonyms in Azure AI Search”**
 
 ---
 
